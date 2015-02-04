@@ -1,6 +1,7 @@
 # NameSurfer
 This program represents the popularity of baby names in the form of graph.
 
+Note : This program uses ACM library. Please download the .jar file while compliling the program from here http://jtf.acm.org.
 
 Against all bureaucratic stereotypes, the Social Security Administration, provides a neat web site showing the distribution of
 names chosen for children over the last 100 years in the United States (http://www.ssa.gov/OACT/babynames/). 
